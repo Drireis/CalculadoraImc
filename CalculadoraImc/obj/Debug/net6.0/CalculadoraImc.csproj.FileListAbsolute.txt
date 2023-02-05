@@ -1,0 +1,12 @@
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.deps.json
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.dll
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\bin\Debug\net6.0\CalculadoraImc.pdb
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.csproj.AssemblyReference.cache
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.AssemblyInfoInputs.cache
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.AssemblyInfo.cs
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.csproj.CoreCompileInputs.cache
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.dll
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\refint\CalculadoraImc.dll
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\CalculadoraImc.pdb
+H:\Estudos\SENAI\Modulo12\CalculadoraImc\CalculadoraImc\obj\Debug\net6.0\ref\CalculadoraImc.dll
